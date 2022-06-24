@@ -57,13 +57,17 @@
   strong {
     font-size: 20px;
 }
-section#Layout_2 h2 {
+  section#Layout_2 h2 {
   font-size: 24px;
 }
-#Layout_2  .Layout_desc {
+  #Layout_2  .Layout_desc {
   text-align: center;
   margin-top: 60px;
 
+  }
+  .owl-dots {
+    text-align: center;
+    margin-top: 33px;
   }
   
 }
